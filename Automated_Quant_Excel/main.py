@@ -31,15 +31,15 @@ from pathlib import Path
 # ============================================================
 # CONFIGURATION — FILL THESE IN
 # ============================================================
-# ABBYY_APP_ID       = "2bb07070-ed65-458a-8d16-30c5a28a822a"
-# ABBYY_APP_PASSWORD = "F54fhXD9+WoQ1OO6PPb6iHMf"
+# ABBYY_APP_ID       = ""
+# ABBYY_APP_PASSWORD = ""
 
 # ⚠️  IMPORTANT: Use the region-specific URL from your ABBYY app details page.
 # NOT https://cloud.ocrsdk.com — that's only the portal login.
 # Examples: https://cloud-westus.ocrsdk.com  |  https://cloud-eu.ocrsdk.com
 # ABBYY_SERVICE_URL  = "https://cloud-westus.ocrsdk.com"
 
-# GEMINI_API_KEY     = "AIzaSyCK4AO3TDOIsqZImB36nKH41PLxKmnKX7k"
+# GEMINI_API_KEY     = ""
 # GEMINI_MODEL       = "gemini-2.5-flash"
 
 # Path to your PDF
